@@ -1,5 +1,3 @@
-# Welcome
-
 ## My social networks
 My [telegram](https://t.me/modertg)
 
